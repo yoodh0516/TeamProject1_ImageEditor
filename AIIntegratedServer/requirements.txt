@@ -1,0 +1,12 @@
+fastapi==0.141.1
+uvicorn==0.52.2
+python-multipart==0.0.20
+pillow==12.3.0
+# NumPy 2.5.x requires Python 3.12 or later. 2.4.6 is the last
+# compatible line for the project's Python 3.11.9 runtime.
+numpy==2.4.6
+requests==2.32.4
+onnxruntime==1.28.0
+opencv-contrib-python-headless==4.13.0.92
+ultralytics==8.4.118
+mediapipe==0.10.35
